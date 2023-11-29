@@ -1,2 +1,2 @@
 # Deep_Reinforcement_Learning
-Umich SLED Lab Challenge Project
+Apply DQN and decision transformer to gym environments.
